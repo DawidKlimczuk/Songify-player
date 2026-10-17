@@ -5,7 +5,7 @@
 <h1 align="center">Songify</h1>
 
 <p align="center">
-  Prywatny odtwarzacz muzyki dla zamkniętego grona znajomych — na iPhone'a, Androida (także Android Auto) i komputer.
+  Prywatny odtwarzacz muzyki — na iPhone'a, Androida (także Android Auto) i komputer.
 </p>
 
 <p align="center">
