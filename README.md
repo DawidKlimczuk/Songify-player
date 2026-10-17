@@ -26,6 +26,29 @@
 > **Kod źródłowy jest prywatny.** To repozytorium jest wizytówką projektu: opisuje, czym jest Songify, jak działa i z czego jest zbudowane.
 > Aplikacja jest niekomercyjna i dostępna wyłącznie z jednorazowym kluczem zaproszenia.
 
+## Zrzuty ekranu
+
+<p align="center">
+  <img src="assets/home-dark.png" width="200" alt="Strona główna – ciemny motyw" />
+  <img src="assets/player-dark.png" width="200" alt="Odtwarzacz – ciemny motyw" />
+  <img src="assets/search-dark.png" width="200" alt="Wyszukiwarka" />
+  <img src="assets/library-dark.png" width="200" alt="Biblioteka" />
+</p>
+
+<p align="center">
+  <img src="assets/home-light.png" width="200" alt="Strona główna – jasny motyw" />
+  <img src="assets/player-light.png" width="200" alt="Odtwarzacz – jasny motyw" />
+  <img src="assets/player-light-2.png" width="200" alt="Odtwarzacz z cytatem z tekstu" />
+  <img src="assets/lyrics-light.png" width="200" alt="Zsynchronizowany tekst piosenki" />
+</p>
+
+<p align="center"><b>Android Auto</b></p>
+
+<p align="center">
+  <img src="assets/android-auto-liked.png" width="410" alt="Android Auto – polubione utwory" />
+  <img src="assets/android-auto-player.png" width="410" alt="Android Auto – odtwarzanie" />
+</p>
+
 ## O projekcie
 
 Songify to aplikacja muzyczna w stylu Spotify, którą zaprojektowałem i zbudowałem od zera — od interfejsu, przez backend i bazę danych, po natywną aplikację na Androida i własny serwer. Założenia:
