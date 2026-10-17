@@ -124,7 +124,7 @@ Do założenia konta potrzebny jest **klucz zaproszenia** — Songify jest prywa
 
 ## Autor
 
-**Dawid Klimczuk** — projekt, interfejs, backend, aplikacja na Androida i serwer.
+**Dawid Klimczuk** — cały projekt od zera: projekt UI/UX, frontend (PWA), backend i baza danych, natywna aplikacja na Androida z Android Auto oraz własny serwer.
 
 © 2026 Dawid Klimczuk. Wszelkie prawa zastrzeżone — kod źródłowy i projekt interfejsu są moją własnością i nie są udostępniane.
 
